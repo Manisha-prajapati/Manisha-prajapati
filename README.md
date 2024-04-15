@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Manisha-prajapati
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Fullstack.
+- 👋 Hi, I’m Manisha-prajapati
+- 👀 I’m interested in Software Engineer.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
